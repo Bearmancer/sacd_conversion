@@ -1,2 +1,2 @@
 # sacd_conversion
-Converting SACDs to 24/16-bit FLAC
+An all-in-one script that converts SACD ISOs to FLAC via ffmpeg after adjusting for dr_gain. Also includes support to downsample 24-bit FLAC to 16-bit.
